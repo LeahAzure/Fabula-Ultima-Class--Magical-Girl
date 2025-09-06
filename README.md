@@ -3,7 +3,7 @@ Magical Girl class for Fabula Ultima module made to make it easy to plug and pla
 
 Compatability: Foundry v12 with the ProjectFU system
 
-Install manually by adding the module manifest: https://github.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl/releases/latest/download/module.json
+Install manually by adding the module manifest: when I can get it working I'll post it Sorry
 
 Credits:
 
