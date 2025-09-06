@@ -3,6 +3,8 @@ Magical Girl class for Fabula Ultima module made to make it easy to plug and pla
 
 Compatability: Foundry v12 with the ProjectFU system
 
+Install: https://github.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl/releases/latest/download/module.json
+
 Credits:
 
 Class: Tails
