@@ -1,0 +1,30 @@
+{
+  "id": "fu-magical-girl-class",
+  "title": "FU: Magical Girl Class",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Azureproject",
+      "discord": "azureproject",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "magical-girl-class",
+      "label": "Magical Girl Class",
+      "path": "packs/magical-girl-class",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "projectfu",
+      "flags": {}
+    }
+  ]
+}
