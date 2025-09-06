@@ -1,8 +1,6 @@
 {
-  "name": "fu-magical-girl-class",
   "id": "fu-magical-girl-class",
   "title": "FU: Magical Girl Class",
-  "description": "A custom class module for Fabula Ultima, themed around magical girls. Includes items, mechanics, and lore hooks tailored for dramatic transformation and emotional resonance.",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
@@ -12,32 +10,9 @@
     {
       "name": "Azureproject",
       "discord": "azureproject",
-      "patreon": "-"
+      "flags": {}
     }
   ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
-  "relationships": {
-    "requires": [
-      {
-        "id": "projectfu",
-        "type": "system"
-      }
-    ]
-  },
-  "socket": false,
-  "esmodules": [],
-  "url": "https://github.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl",
-  "download": "https://github.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl/archive/refs/tags/v1.0.0.zip",
-  "manifest": "https://github.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl/releases/download/v1.0.0/module.json",
-  "license": "LICENSE",
-  "readme": "README.md",
-  "styles": [],
   "packs": [
     {
       "name": "magical-girl-class",
@@ -51,6 +26,5 @@
       "system": "projectfu",
       "flags": {}
     }
-  ],
-  "library": false
+  ]
 }
