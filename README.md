@@ -3,4 +3,5 @@ Magical Girl class for Fabula Ultima module made to make it easy to plug and pla
 
 Credits:
 Class: Tails
+
 Icons: Alexkovacsart (https://alexkovacsart.itch.io/100-magical-girl-pixel-art-icons)
