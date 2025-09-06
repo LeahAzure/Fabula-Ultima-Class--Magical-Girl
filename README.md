@@ -7,6 +7,6 @@ Install manually by adding the module manifest: https://github.com/LeahAzure/Fab
 
 Credits:
 
-Class: Tails
+Class: Tails (https://www.drivethrurpg.com/en/product/534820/magical-girl-class)
 
 Icons: Alexkovacsart (https://alexkovacsart.itch.io/100-magical-girl-pixel-art-icons)
