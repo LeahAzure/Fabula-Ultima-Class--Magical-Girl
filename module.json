@@ -2,7 +2,7 @@
   "id": "fu-magical-girl-class",
   "title": "FU: Magical Girl Class",
   "description": "A custom Magical Girl class module for Fabula Ultima.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -30,5 +30,5 @@
   ],
   "url": "https://github.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl",
   "manifest": "https://raw.githubusercontent.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl/main/module.json",
-  "download": "https://github.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl/releases/download/v1.0.2/module.zip"
+  "download": "https://github.com/LeahAzure/Fabula-Ultima-Class--Magical-Girl/releases/download/v1.0.3/module.zip"
 }
